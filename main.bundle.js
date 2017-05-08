@@ -60,7 +60,7 @@ function moveInLeft() {
         ])
     ]);
 }
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/router.animations.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/router.animations.js.map
 
 /***/ }),
 
@@ -135,7 +135,7 @@ var EmailComponent = (function () {
     return EmailComponent;
     var _a, _b;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/email.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/email.component.js.map
 
 /***/ }),
 
@@ -215,7 +215,7 @@ var LoginComponent = (function () {
     return LoginComponent;
     var _a, _b;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/login.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/login.component.js.map
 
 /***/ }),
 
@@ -284,7 +284,7 @@ var SignupComponent = (function () {
     return SignupComponent;
     var _a, _b;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/signup.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/signup.component.js.map
 
 /***/ }),
 
@@ -320,7 +320,7 @@ var ClothesComponent = (function () {
     ], ClothesComponent);
     return ClothesComponent;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/clothes.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/clothes.component.js.map
 
 /***/ }),
 
@@ -381,7 +381,7 @@ var DaryComponent = (function () {
     ], DaryComponent);
     return DaryComponent;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/dary.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/dary.component.js.map
 
 /***/ }),
 
@@ -509,7 +509,7 @@ var FormComponent = (function () {
     return FormComponent;
     var _a, _b, _c;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/form.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/form.component.js.map
 
 /***/ }),
 
@@ -553,7 +553,7 @@ var GuestsComponent = (function () {
     ], GuestsComponent);
     return GuestsComponent;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/guests.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/guests.component.js.map
 
 /***/ }),
 
@@ -596,7 +596,7 @@ var HomeComponent = (function () {
     ], HomeComponent);
     return HomeComponent;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/home.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/home.component.js.map
 
 /***/ }),
 
@@ -627,7 +627,7 @@ var MapComponent = (function () {
         this.router = router;
         this.route = route;
         this.routeAnimation = true;
-        this.title = 'Co kde najdete';
+        this.title = 'What can u find around. All is very nice - please use google translator :)';
         this.lat = 50.8058000;
         this.lng = 14.0178372;
         this.zoom = 11;
@@ -667,7 +667,7 @@ var MapComponent = (function () {
     return MapComponent;
     var _a, _b, _c;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/map.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/map.component.js.map
 
 /***/ }),
 
@@ -711,7 +711,7 @@ var PensionComponent = (function () {
     ], PensionComponent);
     return PensionComponent;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/pension.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/pension.component.js.map
 
 /***/ }),
 
@@ -760,7 +760,7 @@ var ProgramComponent = (function () {
     return ProgramComponent;
     var _a;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/program.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/program.component.js.map
 
 /***/ }),
 
@@ -810,7 +810,7 @@ var TimelineComponent = (function () {
     return TimelineComponent;
     var _a;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/timeline.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/timeline.component.js.map
 
 /***/ }),
 
@@ -876,7 +876,7 @@ var WeddingComponent = (function () {
     return WeddingComponent;
     var _a, _b;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/wedding.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/wedding.component.js.map
 
 /***/ }),
 
@@ -911,7 +911,7 @@ if (__WEBPACK_IMPORTED_MODULE_3__environments_environment__["a" /* environment *
     __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_0__angular_core__["enableProdMode"])();
 }
 __webpack_require__.i(__WEBPACK_IMPORTED_MODULE_1__angular_platform_browser_dynamic__["a" /* platformBrowserDynamic */])().bootstrapModule(__WEBPACK_IMPORTED_MODULE_2__app_app_module__["a" /* AppModule */]);
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/main.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/main.js.map
 
 /***/ }),
 
@@ -945,7 +945,7 @@ var AppComponent = (function () {
     ], AppComponent);
     return AppComponent;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/app.component.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/app.component.js.map
 
 /***/ }),
 
@@ -1059,7 +1059,7 @@ var AppModule = (function () {
     ], AppModule);
     return AppModule;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/app.module.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/app.module.js.map
 
 /***/ }),
 
@@ -1089,7 +1089,7 @@ var router = [
     { path: 'wedding', component: __WEBPACK_IMPORTED_MODULE_3__wedding_wedding_component__["a" /* WeddingComponent */], children: __WEBPACK_IMPORTED_MODULE_0__wedding_wedding_routes__["a" /* WEDDING_ROUTES */] } //, canActivate: [AuthGuard] }
 ];
 var routes = __WEBPACK_IMPORTED_MODULE_1__angular_router__["b" /* RouterModule */].forRoot(router, { useHash: true });
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/app.routes.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/app.routes.js.map
 
 /***/ }),
 
@@ -1147,7 +1147,7 @@ var AuthGuard = (function () {
     return AuthGuard;
     var _a, _b;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/auth.service.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/auth.service.js.map
 
 /***/ }),
 
@@ -1185,7 +1185,7 @@ var SafePipe = (function () {
     return SafePipe;
     var _a;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/safe.pipe.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/safe.pipe.js.map
 
 /***/ }),
 
@@ -1275,7 +1275,7 @@ var Init = (function () {
     };
     return Init;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/init.markers.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/init.markers.js.map
 
 /***/ }),
 
@@ -1309,7 +1309,7 @@ var MarkerService = (function () {
     ], MarkerService);
     return MarkerService;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/marker.service.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/marker.service.js.map
 
 /***/ }),
 
@@ -1326,26 +1326,26 @@ var Init = (function () {
             {
                 date: '9.9.2017',
                 time: '13:00',
-                heading: 'Raut a focení s rodinou',
-                content: "\n                    <ul>\n                        <li>13:00 - 13:30: Rodina se sch\u00E1z\u00ED a uzob\u00E1v\u00E1 na rautu</li>\n                        <li>13:30 - 14:30: N\u011Bjak\u00E9 to rodinn\u00E9 focen\u00ED spojen\u00E9 s men\u0161\u00ED proch\u00E1zkou</li>\n                    </ul>\n                    "
+                heading: 'Small refreshment and photoshoot with family',
+                content: "\n                    <ul>\n                        <li>13:00 - 13:30: Family is gathering and the eat a bit</li>\n                        <li>13:30 - 14:30: Photoshoot with family together with a short walk</li>\n                    </ul>\n                    "
             },
             {
                 date: '9.9.2017',
                 time: '15:00',
-                heading: 'Svatební obřad',
-                content: "\n                    <ul>\n                        <li>14:30 - 14:45: Kamar\u00E1di a dal\u0161\u00ED zv\u011Bdavci se sch\u00E1zej\u00ED u chaty</li>\n                        <li>14:45 - 15:00: Hromadn\u00FD p\u0159esun od chaty k m\u00EDstu ob\u0159adu</li>\n                        <li>15:00 - 15:30: Vym\u011B\u0148ujeme si prsteny a \u0159\u00EDk\u00E1me si ano</li>\n                        <li>15:30 - 15:40: Hromadn\u00E9 focen\u00ED s n\u00E1sledn\u00FDm p\u0159esunem k chat\u011B</li>\n                    </ul>\n                    "
+                heading: 'Wedding ceremony',
+                content: "\n                    <ul>\n                        <li>14:30 - 14:45: Friends and other interested gather bz the cottage</li>\n                        <li>14:45 - 15:00: Together we walk to the place of ceremony</li>\n                        <li>15:00 - 15:30: We exchange rigs and probablz say yes to each other</li>\n                        <li>15:30 - 15:40: Mass photoshoot and we go back to the cottage</li>\n                    </ul>\n                    "
             },
             {
                 date: '9.9.2017',
                 time: '16:00',
-                heading: 'Svatební afterparty na chatě jen pro zvané',
-                content: "\n                    <ul>\n                        <li>Raut a ochutn\u00E1vky gul\u00E1\u0161\u016F</li>\n                        <li>P\u0159\u00EDpitek</li>\n                        <li>Prvn\u00ED novoman\u017Eelsk\u00FD tanec</li>\n                        <li>Kr\u00E1jen\u00ED dortu</li>\n                        <li>K tanci i poslechu bude hr\u00E1t DUO Kanistr</li>\n                    </ul>\n                    "
+                heading: 'wedding afterparty on the cottage for invited',
+                content: "\n                    <ul>\n                        <li>Food and other food, gulas..</li>\n                        <li>Toast</li>\n                        <li>First dance</li>\n                        <li>Cake cutting</li>\n                        <li>For the dancing we will have a band DUO Kanistr</li>\n                    </ul>\n                    "
             }
         ];
     };
     return Init;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/init.program.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/init.program.js.map
 
 /***/ }),
 
@@ -1379,7 +1379,7 @@ var ProgramService = (function () {
     ], ProgramService);
     return ProgramService;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/program.service.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/program.service.js.map
 
 /***/ }),
 
@@ -1395,46 +1395,46 @@ var Init = (function () {
         return [
             {
                 'year': '2010',
-                'content': "\n                    <ul>\n                        <li>Prvn\u00ED l\u00EDba\u010Dka</li>\n                        <li>Veget\u00EDme v \u00DAst\u00ED</li>\n                        <li>Lezeme</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>First kiss</li>\n                        <li>Relaxing in \u00DAst\u00ED</li>\n                        <li>We climb</li>\n                    </ul>\n                    "
             },
             {
                 'year': '2011',
-                'content': "\n                    <ul>\n                        <li>Prvn\u00ED odlou\u010Den\u00ED (Portugalsko)</li>\n                        <li>Prvn\u00ED spole\u010Dn\u00FD byte\u010Dek v Pr\u00E1glu</li>\n                        <li>Prvn\u00ED vlastn\u00ED ledni\u010Dka</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>The first separation (Portugal)</li>\n                        <li>The first common flat in Prague</li>\n                        <li>Our first refrigerator</li>\n                    </ul>\n                    "
             },
             {
                 'year': '2012',
-                'content': "\n                    <ul>\n                        <li>Voz\u00EDme pr\u00E1dlo do \u00DAst\u00ED: D\u011Bkujeme mam\u010Do!</li>\n                        <li>Honz\u00EDkovi nasazuj\u00ED rovn\u00E1tka</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>We take the dirty cloths to \u00DAst\u00ED: Thank you mum!</li>\n                        <li>Honz\u00EDk has new braces</li>\n                    </ul>\n                    "
             },
             {
                 'year': '2013',
-                'content': "\n                    <ul>\n                        <li>Jan\u010Da se st\u011Bhuje do Nejdku</li>\n                        <li>Prvn\u00ED vlastn\u00ED pra\u010Dka</li>\n                        <li>Za\u010D\u00EDn\u00E1me ferratit</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>Jan\u010Da moves to Nejdek</li>\n                        <li>The first washing machine</li>\n                        <li>We start to climb ferratas</li>\n                    </ul>\n                    "
             },
             {
                 'year': '2014',
-                'content': "\n                    <ul>\n                        <li>Stopujeme na Islandu</li>\n                        <li>Honz\u00EDk kon\u010D\u00ED v pr\u00E1ci</li>\n                        <li>Honz\u00EDk se st\u011Bhuje za Jan\u010Dou do Nejdku</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>Hitchhiking on Iceland</li>\n                        <li>Honz\u00EDk hands in a notice in job in Prague</li>\n                        <li>Honz\u00EDk move in with Janca to Nejdku</li>\n                    </ul>\n                    "
             },
             {
                 'year': '2015',
-                'content': "\n                    <ul>\n                        <li>Honz\u00EDk pracuje na sv\u00E9m projektu</li>\n                        <li>P\u0159e\u017E\u00EDv\u00E1me \"to \u0161patn\u00E9\"</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>Honz\u00EDk works on his project</li>\n                        <li>We survive the hard stuff</li>\n                    </ul>\n                    "
             },
             {
                 'year': '2016',
-                'content': "\n                    <ul>\n                        <li>Honz\u00EDkovi sundavaj\u00ED rovn\u00E1tka</li>\n                        <li>Prvn\u00ED spole\u010Dn\u00FD 1/2 marathon - 2Run</li>\n                        <li>Prvn\u00ED spole\u010Dn\u00E9 auto!:)</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>Honz\u00EDk takes off the braces</li>\n                        <li>Our first common halfmarathon - 2Run</li>\n                        <li>Our first common car!:)</li>\n                    </ul>\n                    "
             },
             {
                 'year': '2017',
                 'now': true,
-                'content': "\n                    <ul>\n                        <li>St\u011Bhujeme se do Nov\u00E9 Role</li>\n                        <li>Jsme v elitn\u00EDm klubu zna\u010Dka\u0159\u016F</li>\n                        <li>Prvn\u00ED svatba:)</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>We move to Nova Role</li>\n                        <li>We are in elite club of signing the touristic routes</li>\n                        <li>The first wedding:)</li>\n                    </ul>\n                    "
             },
             {
                 'year': '2018',
-                'content': "\n                    <ul>\n                        <li>Prvn\u00ED d\u00EDt\u011B zat\u00EDm ne:)</li>\n                        <li>\u017De by Nep\u00E1l</li>\n                    </ul>\n                    "
+                'content': "\n                    <ul>\n                        <li>The first child not planned yet:)</li>\n                        <li>Could it be Nep\u00E1l?</li>\n                    </ul>\n                    "
             }
         ];
     };
     return Init;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/init.timeline.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/init.timeline.js.map
 
 /***/ }),
 
@@ -1468,7 +1468,7 @@ var TimelineService = (function () {
     ], TimelineService);
     return TimelineService;
 }());
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/timeline.service.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/timeline.service.js.map
 
 /***/ }),
 
@@ -1506,7 +1506,7 @@ var WEDDING_ROUTES = [
     { path: 'clothes', component: __WEBPACK_IMPORTED_MODULE_1__clothes_clothes_component__["a" /* ClothesComponent */] },
     { path: 'pension', component: __WEBPACK_IMPORTED_MODULE_0__pension_pension_component__["a" /* PensionComponent */] }
 ];
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/wedding.routes.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/wedding.routes.js.map
 
 /***/ }),
 
@@ -1518,7 +1518,7 @@ var WEDDING_ROUTES = [
 var environment = {
     production: true
 };
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/environment.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/environment.js.map
 
 /***/ }),
 
@@ -1812,7 +1812,7 @@ module.exports = "<div class=\"c4c-container\">\n  <div class=\"form-container\"
 /***/ 793:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"c4c-window\">\n  <div class=\"form-container\">\n    <img src=\"assets/images/lock.svg\" id=\"lock\">\n\n      <span class=\"error\" *ngIf=\"error\">{{ error }}</span>\n\n    <button routerLink=\"/wedding\" id=\"incognito\">Bez přihlášení</button>\n    <button (click)=\"loginFb()\" id=\"fb\">Přihlaš se přes Facebook</button><br>\n    <button (click)=\"loginGoogle()\" id=\"google\">Přihlaš se přes Google</button>\n    <!--<button routerLink=\"/login-email\" id=\"email\">Přihlaš se přes E-mail</button>\n\n    <a routerLink=\"/signup\" routerLinkActive=\"active\" class=\"alc\">Nemáš účet? <strong>Vytvoř si ho.</strong></a>-->\n  </div>\n</div>"
+module.exports = "<div class=\"c4c-window\">\n  <div class=\"form-container\">\n    <img src=\"assets/images/lock.svg\" id=\"lock\">\n\n      <span class=\"error\" *ngIf=\"error\">{{ error }}</span>\n\n    <button routerLink=\"/wedding\" id=\"incognito\">Without login</button>\n    <button (click)=\"loginFb()\" id=\"fb\">Log in with Facebook</button><br>\n    <button (click)=\"loginGoogle()\" id=\"google\">Log in with Google</button>\n    <!--<button routerLink=\"/login-email\" id=\"email\">Přihlaš se přes E-mail</button>\n\n    <a routerLink=\"/signup\" routerLinkActive=\"active\" class=\"alc\">Nemáš účet? <strong>Vytvoř si ho.</strong></a>-->\n  </div>\n</div>"
 
 /***/ }),
 
@@ -1826,35 +1826,35 @@ module.exports = "<div id=\"c4c-window\">\n  <div class=\"form-container\">\n   
 /***/ 795:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"display-4 text-center hidden-sm-down\"> Co si vzít na sebe</div>\n<h4 class=\"text-center hidden-md-up\"> Co si vzít na sebe</h4>\n<br />\n<p class=\"lead\">\n  Vzhledem k tomu, že obřad bude hluboko ve skalách, tak je nezbytná pohodlná obuv, podpatky nedoporučujeme;)\n</p>\n<p class=\"lead\">\n  Svatbu jsme se rozhodli ladit do zelena, bylo by skvělé, kdybyste měli nějaký zelený doplněk (mašle, kapesníček, ...). Na společných fotkách by to mohlo vypadat hezky.\n</p>\n"
+module.exports = "<div class=\"display-4 text-center hidden-sm-down\">What to dress</div>\n<h4 class=\"text-center hidden-md-up\">What to dress</h4>\n<br />\n<p class=\"lead\">\n  The ceremony will be held deep in the forest in the rocks, please take comfy shoes, we do not recommend high heels.:)\n</p>\n<p class=\"lead\">\n  We have decided to tune the wedding to green colour. It would be great if you could take some small green accessory – ribbon, handkerchief..:)..It could look great on photos;)\n</p>\n"
 
 /***/ }),
 
 /***/ 796:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"display-4 text-center hidden-sm-down\">Co si přejeme</div>\n<h4 class=\"text-center hidden-md-up\">Co si přejeme</h4>\n<br />\n<iframe width=\"100%\" height=\"3000px\" [src]=\"url | safe\"></iframe>\n<!--<div class=\"karta container\" *ngFor=\"let item of items\">\n  <div class=\"row\">\n  <img class=\"col-sm-4\" src=\"{{item.foto}}\" alt=\"Card image cap\">\n  <div class=\"col-sm-8\">\n    <h1>{{item.title}}</h1>\n    <p class=\"card-text\">{{item.content}}</p>\n  </div>\n  </div>\n</div> -->\n<!--\n<div class=\"karta container\">\n  <div class=\"row\">\n  <img class=\"col-sm-4\" src=\"http://lorempixel.com/400/200/sports/\" alt=\"Card image cap\">\n  <div class=\"col-sm-8\">\n    <h1>Heslo</h1>\n    <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>\n  </div>\n  </div>\n</div>-->"
+module.exports = "<div class=\"display-4 text-center hidden-sm-down\">What do we wish</div>\n<h4 class=\"text-center hidden-md-up\">What do we wish</h4>\n<br />\n<iframe width=\"100%\" height=\"3000px\" [src]=\"url | safe\"></iframe>\n<!--<div class=\"karta container\" *ngFor=\"let item of items\">\n  <div class=\"row\">\n  <img class=\"col-sm-4\" src=\"{{item.foto}}\" alt=\"Card image cap\">\n  <div class=\"col-sm-8\">\n    <h1>{{item.title}}</h1>\n    <p class=\"card-text\">{{item.content}}</p>\n  </div>\n  </div>\n</div> -->\n<!--\n<div class=\"karta container\">\n  <div class=\"row\">\n  <img class=\"col-sm-4\" src=\"http://lorempixel.com/400/200/sports/\" alt=\"Card image cap\">\n  <div class=\"col-sm-8\">\n    <h1>Heslo</h1>\n    <p class=\"card-text\">Some quick example text to build on the card title and make up the bulk of the card's content.</p>\n  </div>\n  </div>\n</div>-->"
 
 /***/ }),
 
 /***/ 797:
 /***/ (function(module, exports) {
 
-module.exports = "<p class=\"lead\">\n    Pokud jste zváni i na hostinu, prosíme zadejte heslo a vyplňte náš dotazník.\n    <br />\n    <strong>Heslo:</strong> <input [(ngModel)]=\"password\" />\n</p>\n<form *ngIf=\"password=='Blíženci'\" [@enterAnimation]=\"password=='Blíženci'\" [formGroup]=\"myForm\" (ngSubmit)=\"onSubmit()\">\n\n    <!-- We'll add our form controls here -->\n    <div class=\"top-buffer text-center display-4 hidden-sm-down\">Dotazník (odpověz nám na pár důležitých otázek)</div>\n    <h4 class=\"top-buffer text-center hidden-md-up\">Dotazník (odpověz nám na pár důležitých otázek)</h4>\n    <div class=\"row\">\n        <div class=\"col-4\">\n            <img class=\"rounded-circle img-thumbnail\" width=\"200px\" height=\"200px\" src={{avatar}}/>\n        </div>\n        <div class=\"col-8\" formGroupName=\"guest\">\n            <br/><input type=\"checkbox\" name=\"comes\" formControlName=\"comes\"> Dorazíme<br/><br/> \n            <div class=\"form-group\">\n                <label>Jméno</label>\n                <input type=\"text\" class=\"form-control\" formControlName=\"name\">\n                <small class=\"text-danger\" [hidden]=\"myForm.controls.guest.controls.name.valid || (myForm.controls.guest.controls.name.pristine && !submitted)\">\n                    Jméno je povinné.\n                </small>\n            </div>\n            <div class=\"form-group\">\n                <label>Počet hostů</label>\n                <input type=\"text\" class=\"form-control\" formControlName=\"guestCount\">\n                <small class=\"text-danger\" [hidden]=\"myForm.controls.guest.controls.guestCount.valid || (myForm.controls.guest.controls.guestCount.pristine && !submitted)\">\n                    Počet je povinný (může nabývat hodnot 0-9).\n                </small>\n            </div>\n        </div>\n    </div>\n    <h1 class=\"top-buffer\">Ubytování</h1>\n    <input type=\"checkbox\" name=\"drive\" [checked]=\"drive\" (change)=\"drive = !drive\" formControlName=\"drive\"> Chci využít večerní odvoz do Ústí<br />\n    <input type=\"checkbox\" name=\"overnight\" [checked]=\"overnight\" (change)=\"overnight = !overnight\"> Chci přespat\n    <div [@enterAnimation]=\"overnight\" *ngIf=\"overnight\">\n        <div formGroupName=\"acommodation\" class=\"form-group\">\n            \n            <br/>\n            <div class=\"row\">\n                <div class=\"col-sm-6\">\n                    <div>Budu přespávat tyto dny</div>\n                    <div formGroupName=\"nights\" class=\"form-group\">\n                        <div class=\"checkbox\" *ngFor=\"let key of keys();\">\n                            <label>\n                                <input type=\"checkbox\" formControlName=\"{{key}}\"> {{key}} - {{nights[key]}}\n                            </label>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"col-sm-6\">\n                    <div>Na přespání použiji</div>\n                    <div class=\"radio\" *ngFor=\"let b of beddings\">\n                        <label>\n                            <input type=\"radio\"\n                                    formControlName=\"bedding\"\n                                    [value]=\"b\">\n                            {{b}}\n                        </label>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div formGroupName=\"food\" class=\"form-group\">\n        <h1 class=\"top-buffer\">Stravování</h1>\n        <div class=\"form-group\">\n            <label>Mám tato omezení ve stravování</label>\n            <input type=\"text\" class=\"form-control\" formControlName=\"food\">\n        </div>\n        <div class=\"form-group\">\n            <label>Na oslavě bych chtěl pít toto</label>\n            <input type=\"text\" class=\"form-control\" placeholder='např.: pivo, víno, banánový džus, nějaký koktejl' formControlName=\"drink\">\n            <small class=\"text-danger\" [hidden]=\"myForm.controls.guest.controls.name.valid || (myForm.controls.guest.controls.name.pristine && !submitted)\">\n                Vyplň prosím, co budeš na oslavě pít;)\n            </small>\n        </div>\n    </div>\n    <h1 class=\"top-buffer\">Hudba</h1>\n    <div class=\"form-group\">\n        <label>Rád bych slyšel na svatbě následující písničky</label>\n        <input type=\"text\" class=\"form-control\" formControlName=\"music\">\n    </div>\n    <button type=\"submit\" class=\"btn btn-primary\" [disabled]=\"!myForm.valid || formSent\">Odeslat</button>\n\n</form>"
+module.exports = "<p class=\"lead\">\n    If you are invited for the party as well please fill in the form, password is Blíženci.\n    <br />\n    <strong>Heslo:</strong> <input [(ngModel)]=\"password\" />\n</p>\n<form *ngIf=\"password=='Blíženci'\" [@enterAnimation]=\"password=='Blíženci'\" [formGroup]=\"myForm\" (ngSubmit)=\"onSubmit()\">\n\n    <!-- We'll add our form controls here -->\n    <div class=\"top-buffer text-center display-4 hidden-sm-down\">Form (please answer some important questions)</div>\n    <h4 class=\"top-buffer text-center hidden-md-up\">Form (please answer some important questions)</h4>\n    <div class=\"row\">\n        <div class=\"col-4\">\n            <img class=\"rounded-circle img-thumbnail\" width=\"200px\" height=\"200px\" src={{avatar}}/>\n        </div>\n        <div class=\"col-8\" formGroupName=\"guest\">\n            <br/><input type=\"checkbox\" name=\"comes\" formControlName=\"comes\"> Dorazíme<br/><br/> \n            <div class=\"form-group\">\n                <label>Name</label>\n                <input type=\"text\" class=\"form-control\" formControlName=\"name\">\n                <small class=\"text-danger\" [hidden]=\"myForm.controls.guest.controls.name.valid || (myForm.controls.guest.controls.name.pristine && !submitted)\">\n                    Name is mandatory.\n                </small>\n            </div>\n            <div class=\"form-group\">\n                <label>Number of guests</label>\n                <input type=\"text\" class=\"form-control\" formControlName=\"guestCount\">\n                <small class=\"text-danger\" [hidden]=\"myForm.controls.guest.controls.guestCount.valid || (myForm.controls.guest.controls.guestCount.pristine && !submitted)\">\n                    The number is mandatory (can be 0-9).\n                </small>\n            </div>\n        </div>\n    </div>\n    <h1 class=\"top-buffer\">Accommodation</h1>\n    <input type=\"checkbox\" name=\"drive\" [checked]=\"drive\" (change)=\"drive = !drive\" formControlName=\"drive\"> I want to use the night ride to Usti<br />\n    <input type=\"checkbox\" name=\"overnight\" [checked]=\"overnight\" (change)=\"overnight = !overnight\"> I want to sleep over\n    <div [@enterAnimation]=\"overnight\" *ngIf=\"overnight\">\n        <div formGroupName=\"acommodation\" class=\"form-group\">\n            \n            <br/>\n            <div class=\"row\">\n                <div class=\"col-sm-6\">\n                    <div>I am planning to sleep over these days</div>\n                    <div formGroupName=\"nights\" class=\"form-group\">\n                        <div class=\"checkbox\" *ngFor=\"let key of keys();\">\n                            <label>\n                                <input type=\"checkbox\" formControlName=\"{{key}}\"> {{key}} - {{nights[key]}}\n                            </label>\n                        </div>\n                    </div>\n                </div>\n                <div class=\"col-sm-6\">\n                    <div>I will use bedding or sleeping bag (vlastni spacak)</div>\n                    <div class=\"radio\" *ngFor=\"let b of beddings\">\n                        <label>\n                            <input type=\"radio\"\n                                    formControlName=\"bedding\"\n                                    [value]=\"b\">\n                            {{b}}\n                        </label>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n    <div formGroupName=\"food\" class=\"form-group\">\n        <h1 class=\"top-buffer\">Food</h1>\n        <div class=\"form-group\">\n            <label>I have these restrictions in food</label>\n            <input type=\"text\" class=\"form-control\" formControlName=\"food\">\n        </div>\n        <div class=\"form-group\">\n            <label>I would like to dring this on the party</label>\n            <input type=\"text\" class=\"form-control\" placeholder='e.g.: beer, wine, banana juice, some coctail' formControlName=\"drink\">\n            <small class=\"text-danger\" [hidden]=\"myForm.controls.guest.controls.name.valid || (myForm.controls.guest.controls.name.pristine && !submitted)\">\n                Please fill in what are you going to drink;)\n            </small>\n        </div>\n    </div>\n    <h1 class=\"top-buffer\">Music</h1>\n    <div class=\"form-group\">\n        <label>I would like to hear these songs on the party</label>\n        <input type=\"text\" class=\"form-control\" formControlName=\"music\">\n    </div>\n    <button type=\"submit\" class=\"btn btn-primary\" [disabled]=\"!myForm.valid || formSent\">Send</button>\n\n</form>"
 
 /***/ }),
 
 /***/ 798:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"row\">\n  <div class=\"col-6\">\n    <h2 class=\"float-right\">Rodina ze strany ženicha</h2>\n  </div>\n  <div class=\"col-6\">\n    <h2>Rodina ze strany nevěsty</h2>\n  </div>\n</div>\n<br />\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/mamka.JPG\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Mamka Jana s Pavlem</h3>\n    <p class=\"card-text text-right\">Mamča od Honzika</p>\n  </div>\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-left\" src=\"../../../assets/images/eva.png\" alt=\"Card image cap\">\n    <h3 class=\"card-title\">Mamča Eva</h3>\n    <p class=\"card-text\">Mamča od Janči</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/Kutaci.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Taťka Jarda s Ivčou a Domčou</h3>\n    <p class=\"card-text text-right\">Taťka od Honzíka</p>\n  </div>\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-left\" src=\"../../../assets/images/Vlada.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title\">Taťka Vlaďa</h3>\n    <p class=\"card-text\">Taťka od Janči</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/jirka.JPG\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Svědek Jirka</h3>\n    <p class=\"card-text text-right\">Svědek od Honzika</p>\n  </div>\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-left\" src=\"../../../assets/images/nikit.JPG\" alt=\"Card image cap\">\n    <h3 class=\"card-title\">Svědkyně Nikit</h3>\n    <p class=\"card-text\">Sestřenka od Janči</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/Bylinky.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Ségra Klára s rodinou</h3>\n    <p class=\"card-text text-right\">Ségra od Honzika</p>\n  </div>\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-left\" src=\"../../../assets/images/Kostelaci.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title\">Ségra Ivča s rodinou</h3>\n    <p class=\"card-text\">Ségra od Janči</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/zemanci.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Ségra Lucka s rodinou</h3>\n    <p class=\"card-text text-right\">Ségra od Honzika</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/Pavlik.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Brácha Pavlik s rodinou</h3>\n    <p class=\"card-text text-right\">Brácha od Honzika</p>\n  </div>\n</div>"
+module.exports = "<div class=\"row\">\n  <div class=\"col-6\">\n    <h2 class=\"float-right\">Family / groom side</h2>\n  </div>\n  <div class=\"col-6\">\n    <h2>Family / bride side</h2>\n  </div>\n</div>\n<br />\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/mamka.JPG\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Mum Jana with Pavel</h3>\n    <p class=\"card-text text-right\">Mum from Honzik</p>\n  </div>\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-left\" src=\"../../../assets/images/eva.png\" alt=\"Card image cap\">\n    <h3 class=\"card-title\">Mum Eva</h3>\n    <p class=\"card-text\">Mum from Janča</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/Kutaci.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Dad Jarda with Ivča and Domča</h3>\n    <p class=\"card-text text-right\">Dad from Honzíka</p>\n  </div>\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-left\" src=\"../../../assets/images/Vlada.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title\">Dad Vlaďa</h3>\n    <p class=\"card-text\">Dad from  Janča</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/jirka.JPG\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Best man Jirka</h3>\n    <p class=\"card-text text-right\">Best man Honzika</p>\n  </div>\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-left\" src=\"../../../assets/images/nikit.JPG\" alt=\"Card image cap\">\n    <h3 class=\"card-title\">Best women:) Nikit</h3>\n    <p class=\"card-text\">Cousine from Janča</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/Bylinky.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Sister Klára with family</h3>\n    <p class=\"card-text text-right\">Sister from Honzik</p>\n  </div>\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-left\" src=\"../../../assets/images/Kostelaci.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title\">Sister Ivča with family</h3>\n    <p class=\"card-text\">Sister from Janča</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/zemanci.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Sister Lucka with family</h3>\n    <p class=\"card-text text-right\">Sister from Honzika</p>\n  </div>\n</div>\n<div class=\"row\">\n  <div class=\"col-6\">\n    <img class=\"rounded-circle float-right\" src=\"../../../assets/images/Pavlik.jpg\" alt=\"Card image cap\">\n    <h3 class=\"card-title text-right\">Brother Pavlik with family</h3>\n    <p class=\"card-text text-right\">Brother from Honzika</p>\n  </div>\n</div>"
 
 /***/ }),
 
 /***/ 799:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"display-4 text-center hidden-sm-down\">Vítejte na našich svatebních stránkách</div>\n<h4 class=\"text-center hidden-md-up\">Vítejte na našich svatebních stránkách</h4>\n<br />\n<p class=\"lead\">Připravili jsme pro Vás snad kompletní přehled toho, co potřebujete ohledně naší svatby vědět. Najdete tu odkazy na zajímavá místa v okolí, program svatby a hlavně dotazník, ať víme, kolik Vás přijde a bude přespávat, abychom věděli, jestli máme shánět ještě nějaké další kapacity (chata nabízí jen přibližne 30 míst na spaní).</p>\n<p class=\"lead\">Na těchto stránkách jsem se učil nové technologie, takže je to můj první pokus, proto buďte shovívaví, k dokonalosti to má daleko:)</p>\n<p class=\"lead\">Pokud se potřebujete na něčem ohledně svatby domluvit, tak nám napište na naše e-maily (<a href=\"mailto:jan.kuta@email.cz\">jan.kuta@email.cz</a> nebo <a href=\"mailto:janazamazalova@email.cz\">janazamazalova@email.cz</a>)</p>\n<p class=\"lead\">Těšíme se na Vás, Janča & Honzík.</p>"
+module.exports = "<div class=\"display-4 text-center hidden-sm-down\">Welcome to our wedding websites Yoli and Mohit! :)</div>\n<h4 class=\"text-center hidden-md-up\">Welcome to our wedding websites Yoli and Mohit! :) </h4>\n<br />\n<p class=\"lead\">We have prepared hopefully complete overview of things you might like to know about our wedding. You will find tips for interesting places around, wedding agenda, and primarily the questionnaire to know, how many of you is coming, who is going to sleep over…The cottage offers 30 beds to sleep.</p>\n<p class=\"lead\">Honza has created these websites and he has learned new technologies on it, so be kind:) it is not perfect.</p>\n<p class=\"lead\">If you have any questions contact us on <a href=\"mailto:jan.kuta@email.cz\">jan.kuta@email.cz</a> or <a href=\"mailto:janazamazalova@email.cz\">janazamazalova@email.cz</a> - as you know:)</p>\n<p class=\"lead\">Těšíme se na Vás, Janča & Honzík.</p>"
 
 /***/ }),
 
@@ -1868,28 +1868,28 @@ module.exports = "<div class=\"text-center display-4 hidden-sm-down\">{{ title }
 /***/ 801:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"top-buffer text-center display-4 hidden-sm-down\">Ubytování</div>\n<h4 class=\"top-buffer text-center hidden-md-up\">Ubytování</h4>\n<br />\n<p class=\"lead\">\n  Chata Zátiší, kde bude probíhat oslava, nabízí i pokoje na přespání (4x2, 2x3, 1x4, 1x5, 1x6 lůžek).\n  Pokud máte zájem, nezapomeňte nám to dát včas vědět prostřednictvím našeho dotazníku.\n  Další možností ubytování je ve vlastním stanu na plácku vedle chaty, nebo můžete využít některý z bivaků v blízkých skalách;)\n  Pokud by bylo mnoho zájemců, mohli bychom zařídit ještě přespání na turistické chatě.\n</p>\n<img src=\"http://www.e-chalupy.cz/krusne_hory/_0575/penzion-1-.jpeg\" class=\"rounded mx-auto d-block\">\n"
+module.exports = "<div class=\"top-buffer text-center display-4 hidden-sm-down\">Ubytování</div>\n<h4 class=\"top-buffer text-center hidden-md-up\">Ubytování</h4>\n<br />\n<p class=\"lead\">\n  Cottage Zátiší, the party will be held there, offers rooms for sleeping over(4x2, 2x3, 1x4, 1x5, 1x6 beds).\n  If u r interested plese give us an early notice through our form\n  You could also sleep in your tent next to the cottage or you could bivak nearby in rock;)\n  There are other places to sleep so dont worry.\n</p>\n<img src=\"http://www.e-chalupy.cz/krusne_hory/_0575/penzion-1-.jpeg\" class=\"rounded mx-auto d-block\">\n"
 
 /***/ }),
 
 /***/ 802:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"text-center display-4 hidden-sm-down\">Program svatby</div>\n<h4 class=\"text-center hidden-md-up\">Program svatby</h4>\n<br />\n<p class=\"lead\">\n  Časy (kromě obřadu) jsou zatím jen předběžné. Upřesníme, až budemem mít přesný harmonogram.\n</p>\n<div id=\"accordion\" role=\"tablist\" aria-multiselectable=\"true\">\n  <div *ngFor=\"let action of actions; let i = index\" class=\"card\">\n    <div role=\"tab\" id=\"{{'heading'+i}}\">\n      <h5 class=\"mb-0\">\n        <div data-toggle=\"collapse\" data-parent=\"#accordion\" [attr.href]=\"'#collapse'+i\" aria-expanded=\"true\" [attr.aria-controls]=\"'collapse'+i\">\n          <table class=\"table table-hover\">\n            <tbody>\n              <tr>\n                <td class=\"bg-success text-white\"><h6 class=\"text-center\">{{action.date}}</h6><h4 class=\"text-center\">{{action.time}}</h4></td>\n                <td class=\"col-md-6\">{{action.heading}}</td>\n                <td class=\"col-md-4\"><h6 class=\"text-muted\">Více informací</h6></td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </h5>\n    </div>\n\n    <div id=\"{{'collapse'+i}}\" class=\"collapse\" role=\"tabpanel\" [attr.aria-labelledby]=\"'heading'+i\">\n      <div class=\"card-block\" [innerHtml]=\"action.content\">\n      </div>\n    </div>\n  </div>\n</div>"
+module.exports = "<div class=\"text-center display-4 hidden-sm-down\">Wedding agenda</div>\n<h4 class=\"text-center hidden-md-up\">Wedding agenda</h4>\n<br />\n<p class=\"lead\">\n  Time is preliminary. We will specify, when we set the timeline.\n</p>\n<div id=\"accordion\" role=\"tablist\" aria-multiselectable=\"true\">\n  <div *ngFor=\"let action of actions; let i = index\" class=\"card\">\n    <div role=\"tab\" id=\"{{'heading'+i}}\">\n      <h5 class=\"mb-0\">\n        <div data-toggle=\"collapse\" data-parent=\"#accordion\" [attr.href]=\"'#collapse'+i\" aria-expanded=\"true\" [attr.aria-controls]=\"'collapse'+i\">\n          <table class=\"table table-hover\">\n            <tbody>\n              <tr>\n                <td class=\"bg-success text-white\"><h6 class=\"text-center\">{{action.date}}</h6><h4 class=\"text-center\">{{action.time}}</h4></td>\n                <td class=\"col-md-6\">{{action.heading}}</td>\n                <td class=\"col-md-4\"><h6 class=\"text-muted\">More information</h6></td>\n              </tr>\n            </tbody>\n          </table>\n        </div>\n      </h5>\n    </div>\n\n    <div id=\"{{'collapse'+i}}\" class=\"collapse\" role=\"tabpanel\" [attr.aria-labelledby]=\"'heading'+i\">\n      <div class=\"card-block\" [innerHtml]=\"action.content\">\n      </div>\n    </div>\n  </div>\n</div>"
 
 /***/ }),
 
 /***/ 803:
 /***/ (function(module, exports) {
 
-module.exports = "<div class=\"container\">\n    <div class=\"page-header text-center\">\n        <h1 id=\"timeline\" class=\"hidden-sm-down\">Náš příběh ve zkratce</h1>\n        <h4 id=\"timeline\" class=\"hidden-md-up\">Náš příběh ve zkratce</h4>\n    </div>\n    <ul class=\"timeline\">\n        <li *ngFor=\"let item of timelineItems; let odd = odd\" [ngClass]=\"{ 'timeline-inverted': odd }\">\n          <div class=\"timeline-badge primary\"><a><i class=\"glyphicon glyphicon-record\" rel=\"tooltip\" title=\"11 hours ago via Twitter\" id=\"\"></i></a></div>\n          <div class=\"timeline-panel\">\n            <div class=\"timeline-heading display-4 text-center bg-faded\" [ngClass]=\"{ 'bg-success text-white': item.now}\">\n              {{item.year}}\n            </div>\n            <div class=\"timeline-body\">\n              <p [innerHtml]=\"item.content\"></p>\n            </div>\n          </div>\n        </li>\n        <li class=\"clearfix\" style=\"float: none;\"></li>\n    </ul>\n</div>\n"
+module.exports = "<div class=\"container\">\n    <div class=\"page-header text-center\">\n        <h1 id=\"timeline\" class=\"hidden-sm-down\">Our story in a nutshell</h1>\n        <h4 id=\"timeline\" class=\"hidden-md-up\">Our story in a nutshell</h4>\n    </div>\n    <ul class=\"timeline\">\n        <li *ngFor=\"let item of timelineItems; let odd = odd\" [ngClass]=\"{ 'timeline-inverted': odd }\">\n          <div class=\"timeline-badge primary\"><a><i class=\"glyphicon glyphicon-record\" rel=\"tooltip\" title=\"11 hours ago via Twitter\" id=\"\"></i></a></div>\n          <div class=\"timeline-panel\">\n            <div class=\"timeline-heading display-4 text-center bg-faded\" [ngClass]=\"{ 'bg-success text-white': item.now}\">\n              {{item.year}}\n            </div>\n            <div class=\"timeline-body\">\n              <p [innerHtml]=\"item.content\"></p>\n            </div>\n          </div>\n        </li>\n        <li class=\"clearfix\" style=\"float: none;\"></li>\n    </ul>\n</div>\n"
 
 /***/ }),
 
 /***/ 804:
 /***/ (function(module, exports) {
 
-module.exports = "<nav class=\"navbar navbar-toggleable-md navbar-light bg-success fixed-top\">\n  <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n    <span class=\"navbar-toggler-icon\"></span>\n  </button>\n  <a class=\"navbar-brand\" routerLink=\"/wedding\">Jan & Jana</a>\n\n  <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n    <ul class=\"navbar-nav mr-auto\">\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/timeline']\" routerLinkActive=\"active\">Náš příběh</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/program']\" routerLinkActive=\"active\">Program</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/guests']\" routerLinkActive=\"active\">Koho tam potkáte</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/pension']\" routerLinkActive=\"active\">Ubytování</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/gifts']\" routerLinkActive=\"active\">Svatební dary</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/form']\" [queryParams]= \"{name: name, avatar: avatar}\" routerLinkActive=\"active\">Dotazník</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" routerLink=\"/wedding/map\" routerLinkActive=\"active\">Co kde najdete</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" routerLink=\"/wedding/clothes\" routerLinkActive=\"active\">Co na sebe</a>\n      </li>\n    </ul>\n    <button class=\"btn btn-outline-primary my-2 my-sm-0\" (click)=\"logout()\">Odhlásit se</button>\n  </div>\n</nav>\n  <!-- carousel -->\n<div id=\"carouselExampleSlidesOnly\" class=\"carousel slide bg-faded\" data-ride=\"carousel\">\n  <div class=\"carousel-inner\" role=\"listbox\">\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/1_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/2_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/3_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/4_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/5_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/6_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item active\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/7_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/8_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/9_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/10_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/11_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/12_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/13_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/14_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/15_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/16_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/17_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/18_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/19_.png\" alt=\"Jan & Jana\">\n    </div>\n  </div>\n  <a class=\"carousel-control-prev\" href=\"#carouselExampleSlidesOnly\" role=\"button\" data-slide=\"prev\">\n    <span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"></span>\n    <span class=\"sr-only\">Previous</span>\n  </a>\n  <a class=\"carousel-control-next\" href=\"#carouselExampleSlidesOnly\" role=\"button\" data-slide=\"next\">\n    <span class=\"carousel-control-next-icon\" aria-hidden=\"true\"></span>\n    <span class=\"sr-only\">Next</span>\n  </a>\n</div>\n\n<!-- Content -->\n<div class=\"content top-buffer\" id=\"content\">\n  <div class=\"container bg-default\">\n    <router-outlet></router-outlet>\n    <!-- od kdy ubytovani, povleceni, vlastni spacak, pozadavky na jidlo - vegetarian, alergie, co pijes a kolik tak toho vypijes, muzika, obrad, afterparty - na heslo-->\n    <!-- \n      zalozka ubytovani\n      zelene doplnky\n      x odvoz\n      odpocet\n      x Nase svatba (hostina, Obrad, svatebni party)\n      x Seznam daru\n      x Co se tam d8 delat (pdf ke stazeni)\n      x Koho tam potk8te\n      Kontakt na nas\n\n      s radosti Vam oznamujeme, svazani laskou (slibem) ke spolecnwemu zivotu\n      Ke svazku z lasky se prizname pred nasimi nejblizsimi\n    -->\n  </div>\n</div>"
+module.exports = "<nav class=\"navbar navbar-toggleable-md navbar-light bg-success fixed-top\">\n  <button class=\"navbar-toggler navbar-toggler-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\">\n    <span class=\"navbar-toggler-icon\"></span>\n  </button>\n  <a class=\"navbar-brand\" routerLink=\"/wedding\">Jan & Jana</a>\n\n  <div class=\"collapse navbar-collapse\" id=\"navbarSupportedContent\">\n    <ul class=\"navbar-nav mr-auto\">\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/timeline']\" routerLinkActive=\"active\">Our story</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/program']\" routerLinkActive=\"active\">Agenda</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/guests']\" routerLinkActive=\"active\">Who will u meet</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/pension']\" routerLinkActive=\"active\">Accommodation</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/gifts']\" routerLinkActive=\"active\">Wedding gifts</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" [routerLink]=\"['/wedding/form']\" [queryParams]= \"{name: name, avatar: avatar}\" routerLinkActive=\"active\">Questionnaire</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" routerLink=\"/wedding/map\" routerLinkActive=\"active\">What can you find around</a>\n      </li>\n      <li class=\"nav-item\" data-toggle=\"collapse\" data-target=\".navbar-collapse.show\">\n        <a class=\"nav-link\" routerLink=\"/wedding/clothes\" routerLinkActive=\"active\">What to dress</a>\n      </li>\n    </ul>\n    <button class=\"btn btn-outline-primary my-2 my-sm-0\" (click)=\"logout()\">Log out</button>\n  </div>\n</nav>\n  <!-- carousel -->\n<div id=\"carouselExampleSlidesOnly\" class=\"carousel slide bg-faded\" data-ride=\"carousel\">\n  <div class=\"carousel-inner\" role=\"listbox\">\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/1_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/2_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/3_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/4_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/5_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/6_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item active\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/7_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/8_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/9_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/10_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/11_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/12_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/13_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/14_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/15_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/16_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/17_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/18_.png\" alt=\"Jan & Jana\">\n    </div>\n    <div class=\"carousel-item item\">\n      <img class=\"d-block img-fluid\" class=\"img-fluid\" src=\"../../assets/images/foto/19_.png\" alt=\"Jan & Jana\">\n    </div>\n  </div>\n  <a class=\"carousel-control-prev\" href=\"#carouselExampleSlidesOnly\" role=\"button\" data-slide=\"prev\">\n    <span class=\"carousel-control-prev-icon\" aria-hidden=\"true\"></span>\n    <span class=\"sr-only\">Previous</span>\n  </a>\n  <a class=\"carousel-control-next\" href=\"#carouselExampleSlidesOnly\" role=\"button\" data-slide=\"next\">\n    <span class=\"carousel-control-next-icon\" aria-hidden=\"true\"></span>\n    <span class=\"sr-only\">Next</span>\n  </a>\n</div>\n\n<!-- Content -->\n<div class=\"content top-buffer\" id=\"content\">\n  <div class=\"container bg-default\">\n    <router-outlet></router-outlet>\n    <!-- od kdy ubytovani, povleceni, vlastni spacak, pozadavky na jidlo - vegetarian, alergie, co pijes a kolik tak toho vypijes, muzika, obrad, afterparty - na heslo-->\n    <!-- \n      zalozka ubytovani\n      zelene doplnky\n      x odvoz\n      odpocet\n      x Nase svatba (hostina, Obrad, svatebni party)\n      x Seznam daru\n      x Co se tam d8 delat (pdf ke stazeni)\n      x Koho tam potk8te\n      Kontakt na nas\n\n      s radosti Vam oznamujeme, svazani laskou (slibem) ke spolecnwemu zivotu\n      Ke svazku z lasky se prizname pred nasimi nejblizsimi\n    -->\n  </div>\n</div>"
 
 /***/ })
 

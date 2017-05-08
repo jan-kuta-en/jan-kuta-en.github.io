@@ -2840,7 +2840,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
  * Needed for: All but Chrome, Firefox, Edge, IE11 and Safari 10
  */
 // import 'intl';  // Run `npm install --save intl`.
-//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/wedding00/src/polyfills.js.map
+//# sourceMappingURL=/home/kutik/Desktop/PRACOVNI/CURRENT_C4C/weddingEN/src/polyfills.js.map
 
 /***/ }),
 /* 476 */,
